@@ -1,0 +1,5 @@
+shag_work/
+SHAG_outputs.zip
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
