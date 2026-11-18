@@ -111,7 +111,7 @@ If you use this code or dataset, please cite the paper above and this archive:
   title  = {S-HAG: Scaled Heterogeneous Amdahl--Gustafson Model -- Code and Data},
   year   = {2026},
   doi    = {<ZENODO-DOI>},
-  url    = {https://github.com/<USER>/<REPO>}
+  url    = {[https://github.com/<USER>/<REPO>](https://github.com/dahassanm-jpg/shag-speedup-model/)}
 }
 ```
 
