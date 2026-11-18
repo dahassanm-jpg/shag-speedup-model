@@ -6,7 +6,7 @@ Reproducibility package for the paper
 
 The repository has one executable notebook, `SHAG_complete.ipynb`. It holds the S-HAG reference implementation, the consolidated scaling dataset, the full analysis behind Section VI of the paper, and the cluster measurement kit. Running it from top to bottom regenerates every table value and figure reported in the paper.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<USER>/<REPO>/blob/main/SHAG_complete.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/dahassanm-jpg/shag-speedup-model/blob/main/SHAG_complete.ipynb)
 
 **DOI:** `<ZENODO-DOI>`
 
@@ -111,7 +111,7 @@ If you use this code or dataset, please cite the paper above and this archive:
   title  = {S-HAG: Scaled Heterogeneous Amdahl--Gustafson Model -- Code and Data},
   year   = {2026},
   doi    = {<ZENODO-DOI>},
-  url    = {[https://github.com/<USER>/<REPO>](https://github.com/dahassanm-jpg/shag-speedup-model/)}
+  url    = {https://github.com/dahassanm-jpg/shag-speedup-model}
 }
 ```
 
