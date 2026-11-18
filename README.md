@@ -4,11 +4,35 @@ Reproducibility package for the paper
 
 > D. A. M. Hassan and K. I. Abu Zanouna, "Evaluating the Limits of Amdahl's Law in Heterogeneous Massively Parallel Architectures: A Gustafson-Inspired Reformulation," Computer Engineering Department, Faculty of Engineering, Islamic University of Gaza, 2026.
 
-The repository has one executable notebook, `SHAG_complete.ipynb`. It holds the S-HAG reference implementation, the consolidated scaling dataset, the full analysis behind Section VI of the paper, and the cluster measurement kit. Running it from top to bottom regenerates every table value and figure reported in the paper.
+The core of the repository is one executable notebook, `SHAG_complete.ipynb`. It holds the S-HAG reference implementation, the consolidated scaling dataset, the full analysis behind Section VI of the paper, and the cluster measurement kit. Running it from top to bottom regenerates every table value and figure reported in the paper.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/dahassanm-jpg/shag-speedup-model/blob/main/SHAG_complete.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<USER>/shag-speedup-model/blob/main/SHAG_complete.ipynb)
 
 **DOI:** `<ZENODO-DOI>`
+
+---
+
+## Repository structure
+
+```
+shag-speedup-model/
+├── SHAG_complete.ipynb     # the complete analysis: run this
+├── src/shag.py             # S-HAG reference implementation (same code the notebook writes)
+├── data/
+│   ├── raw/                # published source files (LAMMPS CSV, BERT README tables), as analysed
+│   ├── transcribed/        # GROMACS, ResNet-50, MPAS-A, CESM tables transcribed from the papers
+│   ├── scaling_dataset.csv # consolidated dataset: 218 configurations, 33 series
+│   └── consistency_checks.csv
+├── results/                # outputs of designs E1–E5 (CSV / JSON)
+├── figures/                # Figs. 1–4 of the paper and overview plots
+├── kit/                    # cluster measurement kit for new runs (Slurm, OSU, FWQ, PyTorch DDP)
+├── paper/                  # the paper (PDF)
+├── requirements.txt
+├── CITATION.cff
+└── LICENSE
+```
+
+The notebook is self-contained: it recreates `src/`, `data/`, `results/`, `figures/`, and `kit/` inside a `shag_work/` folder when it runs. The copies in this repository are the outputs of that run, included so the results can be inspected without running anything.
 
 ---
 
@@ -67,11 +91,13 @@ The first line of every transcribed CSV names its source table. If a downloaded 
 
 ## Outputs
 
-After a full run, `shag_work/` contains the following.
+These are in the repository and are regenerated in `shag_work/` by every run.
 
-**`results/`**
+**`data/`**
 - `scaling_dataset.csv`: the consolidated dataset
 - `consistency_checks.csv`: the 27 transcription checks
+
+**`results/`**
 - `per_series_accuracy.csv`: MAPE and signed error per series and model (Tables V, VI, X)
 - `predictions.csv`: predicted vs. observed speedup at every held-out configuration
 - `fitted_parameters.json`: fitted parameters of every model and series
@@ -81,7 +107,8 @@ After a full run, `shag_work/` contains the following.
 - `section4_model_checks.json`, `section4_synthetic_experiment.json`: Section IV checks
 
 **`figures/`**
-- `fig1_shag.png`, `fig2_lammps.png`, `fig3_gromacs.png`, `fig4_cases.png`, `error_summary.png`
+- `fig1_shag.png`, `fig2_lammps.png`, `fig3_gromacs.png`, `fig4_cases.png`: paper figures
+- `error_summary.png`, `speedup_*.png`: overview plots
 
 The analysis is deterministic. Repeated runs, including an independent run on Google Colab, reproduced every reported value to within 10⁻⁷.
 
@@ -111,10 +138,10 @@ If you use this code or dataset, please cite the paper above and this archive:
   title  = {S-HAG: Scaled Heterogeneous Amdahl--Gustafson Model -- Code and Data},
   year   = {2026},
   doi    = {<ZENODO-DOI>},
-  url    = {https://github.com/dahassanm-jpg/shag-speedup-model}
+  url    = {https://github.com/<USER>/shag-speedup-model}
 }
 ```
 
 ## License
 
-Code: `<LICENSE, e.g. MIT>`. The transcribed data values come from the cited publications and remain attributed to their original authors; please cite those sources when you reuse them.
+Code: MIT (see `LICENSE`). The transcribed data values come from the cited publications and remain attributed to their original authors; please cite those sources when you reuse them.

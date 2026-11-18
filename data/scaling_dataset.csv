@@ -1,0 +1,219 @@
+series,domain,app,source,machine,unit,mode,P,perf,perf_sd,n_rep,natoms,base_P,p_rel,S_obs
+CESM-CESM1.0-f09_g16,Climate simulation,CESM,Kliphuis2023,"Snellius (SURF), B1850 coupled",core,strong,128.0,12.13,,1,,128.0,1.0,1.0
+CESM-CESM1.0-f09_g16,Climate simulation,CESM,Kliphuis2023,"Snellius (SURF), B1850 coupled",core,strong,768.0,38.39,,1,,128.0,6.0,3.1648804616652924
+CESM-CESM1.0-f09_g16,Climate simulation,CESM,Kliphuis2023,"Snellius (SURF), B1850 coupled",core,strong,1280.0,45.61,,1,,128.0,10.0,3.760098928276999
+CESM-CESM1.0-f09_g16,Climate simulation,CESM,Kliphuis2023,"Snellius (SURF), B1850 coupled",core,strong,1792.0,49.99,,1,,128.0,14.0,4.12118713932399
+CESM-CESM1.0-f19_g16,Climate simulation,CESM,Kliphuis2023,"Snellius (SURF), B1850 coupled",core,strong,768.0,57.56,,1,,768.0,1.0,1.0
+CESM-CESM1.0-f19_g16,Climate simulation,CESM,Kliphuis2023,"Snellius (SURF), B1850 coupled",core,strong,1024.0,83.74,,1,,768.0,1.3333333333333333,1.4548297428769978
+CESM-CESM1.0-f19_g16,Climate simulation,CESM,Kliphuis2023,"Snellius (SURF), B1850 coupled",core,strong,1536.0,93.81,,1,,768.0,2.0,1.6297776233495482
+CESM-CESM1.0-f19_g16,Climate simulation,CESM,Kliphuis2023,"Snellius (SURF), B1850 coupled",core,strong,1664.0,93.11,,1,,768.0,2.1666666666666665,1.6176164002779707
+CESM-CESM2.1-f09_g16,Climate simulation,CESM,Kliphuis2023,"Snellius (SURF), B1850 coupled",core,strong,1024.0,6.24,,1,,1024.0,1.0,1.0
+CESM-CESM2.1-f09_g16,Climate simulation,CESM,Kliphuis2023,"Snellius (SURF), B1850 coupled",core,strong,1280.0,8.68,,1,,1024.0,1.25,1.391025641025641
+CESM-CESM2.1-f09_g16,Climate simulation,CESM,Kliphuis2023,"Snellius (SURF), B1850 coupled",core,strong,1408.0,9.85,,1,,1024.0,1.375,1.578525641025641
+CESM-CESM2.1-f09_g16,Climate simulation,CESM,Kliphuis2023,"Snellius (SURF), B1850 coupled",core,strong,1792.0,9.41,,1,,1024.0,1.75,1.5080128205128205
+CESM-CESM2.1-f09_g16,Climate simulation,CESM,Kliphuis2023,"Snellius (SURF), B1850 coupled",core,strong,2304.0,8.6,,1,,1024.0,2.25,1.3782051282051282
+CESM-CESM2.1-f19_g16,Climate simulation,CESM,Kliphuis2023,"Snellius (SURF), B1850 coupled",core,strong,768.0,19.42,,1,,768.0,1.0,1.0
+CESM-CESM2.1-f19_g16,Climate simulation,CESM,Kliphuis2023,"Snellius (SURF), B1850 coupled",core,strong,1024.0,22.54,,1,,768.0,1.3333333333333333,1.1606591143151388
+CESM-CESM2.1-f19_g16,Climate simulation,CESM,Kliphuis2023,"Snellius (SURF), B1850 coupled",core,strong,1280.0,24.98,,1,,768.0,1.6666666666666667,1.286302780638517
+MPAS-120km-Curie,Climate simulation,MPAS-A,Heinzeller2016,"Curie: Sandy Bridge 2x8c, IB QDR",node,strong,1.0,0.0007656967840735069,,1,,1.0,1.0,1.0
+MPAS-120km-Curie,Climate simulation,MPAS-A,Heinzeller2016,"Curie: Sandy Bridge 2x8c, IB QDR",node,strong,2.0,0.001579778830963665,,1,,1.0,2.0,2.0631911532385465
+MPAS-120km-Curie,Climate simulation,MPAS-A,Heinzeller2016,"Curie: Sandy Bridge 2x8c, IB QDR",node,strong,4.0,0.002652519893899204,,1,,1.0,4.0,3.4641909814323606
+MPAS-120km-Curie,Climate simulation,MPAS-A,Heinzeller2016,"Curie: Sandy Bridge 2x8c, IB QDR",node,strong,6.0,0.003278688524590164,,1,,1.0,6.0,4.281967213114754
+MPAS-120km-Curie,Climate simulation,MPAS-A,Heinzeller2016,"Curie: Sandy Bridge 2x8c, IB QDR",node,strong,8.0,0.0037174721189591076,,1,,1.0,8.0,4.855018587360594
+MPAS-120km-Curie,Climate simulation,MPAS-A,Heinzeller2016,"Curie: Sandy Bridge 2x8c, IB QDR",node,strong,10.0,0.00423728813559322,,1,,1.0,10.0,5.533898305084746
+MPAS-120km-Curie,Climate simulation,MPAS-A,Heinzeller2016,"Curie: Sandy Bridge 2x8c, IB QDR",node,strong,12.0,0.0047169811320754715,,1,,1.0,12.0,6.160377358490566
+MPAS-120km-Curie,Climate simulation,MPAS-A,Heinzeller2016,"Curie: Sandy Bridge 2x8c, IB QDR",node,strong,16.0,0.0053475935828877,,1,,1.0,16.0,6.983957219251336
+MPAS-120km-Curie,Climate simulation,MPAS-A,Heinzeller2016,"Curie: Sandy Bridge 2x8c, IB QDR",node,strong,24.0,0.005494505494505495,,1,,1.0,24.0,7.175824175824176
+MPAS-120km-Curie,Climate simulation,MPAS-A,Heinzeller2016,"Curie: Sandy Bridge 2x8c, IB QDR",node,strong,32.0,0.0055248618784530384,,1,,1.0,32.0,7.215469613259668
+MPAS-120km-ForHLR1,Climate simulation,MPAS-A,Heinzeller2016,"ForHLR1: Ivy Bridge 2x10c, IB FDR",node,strong,1.0,0.0011587485515643105,,1,,1.0,1.0,1.0
+MPAS-120km-ForHLR1,Climate simulation,MPAS-A,Heinzeller2016,"ForHLR1: Ivy Bridge 2x10c, IB FDR",node,strong,2.0,0.00205761316872428,,1,,1.0,2.0,1.7757201646090537
+MPAS-120km-ForHLR1,Climate simulation,MPAS-A,Heinzeller2016,"ForHLR1: Ivy Bridge 2x10c, IB FDR",node,strong,3.0,0.0031545741324921135,,1,,1.0,3.0,2.722397476340694
+MPAS-120km-ForHLR1,Climate simulation,MPAS-A,Heinzeller2016,"ForHLR1: Ivy Bridge 2x10c, IB FDR",node,strong,4.0,0.00392156862745098,,1,,1.0,4.0,3.384313725490196
+MPAS-120km-ForHLR1,Climate simulation,MPAS-A,Heinzeller2016,"ForHLR1: Ivy Bridge 2x10c, IB FDR",node,strong,6.0,0.005263157894736842,,1,,1.0,6.0,4.542105263157895
+MPAS-120km-ForHLR1,Climate simulation,MPAS-A,Heinzeller2016,"ForHLR1: Ivy Bridge 2x10c, IB FDR",node,strong,8.0,0.006711409395973154,,1,,1.0,8.0,5.791946308724832
+MPAS-120km-ForHLR1,Climate simulation,MPAS-A,Heinzeller2016,"ForHLR1: Ivy Bridge 2x10c, IB FDR",node,strong,10.0,0.007407407407407408,,1,,1.0,10.0,6.392592592592593
+MPAS-120km-ForHLR1,Climate simulation,MPAS-A,Heinzeller2016,"ForHLR1: Ivy Bridge 2x10c, IB FDR",node,strong,12.0,0.0078125,,1,,1.0,12.0,6.7421875
+MPAS-120km-ForHLR1,Climate simulation,MPAS-A,Heinzeller2016,"ForHLR1: Ivy Bridge 2x10c, IB FDR",node,strong,16.0,0.007874015748031496,,1,,1.0,16.0,6.7952755905511815
+MPAS-120km-ForHLR1,Climate simulation,MPAS-A,Heinzeller2016,"ForHLR1: Ivy Bridge 2x10c, IB FDR",node,strong,18.0,0.007633587786259542,,1,,1.0,18.0,6.587786259541985
+MPAS-120km-ForHLR1,Climate simulation,MPAS-A,Heinzeller2016,"ForHLR1: Ivy Bridge 2x10c, IB FDR",node,strong,20.0,0.007692307692307693,,1,,1.0,20.0,6.638461538461539
+MPAS-120km-Juqueen,Climate simulation,MPAS-A,Heinzeller2016,"Juqueen: BlueGene/Q 16c, 5-D torus",node,strong,32.0,0.0015128593040847202,,1,,32.0,1.0,1.0
+MPAS-120km-Juqueen,Climate simulation,MPAS-A,Heinzeller2016,"Juqueen: BlueGene/Q 16c, 5-D torus",node,strong,64.0,0.0020964360587002098,,1,,32.0,2.0,1.3857442348008386
+MPAS-120km-Juqueen,Climate simulation,MPAS-A,Heinzeller2016,"Juqueen: BlueGene/Q 16c, 5-D torus",node,strong,96.0,0.0017064846416382253,,1,,32.0,3.0,1.127986348122867
+MPAS-120km-Juqueen,Climate simulation,MPAS-A,Heinzeller2016,"Juqueen: BlueGene/Q 16c, 5-D torus",node,strong,128.0,0.001644736842105263,,1,,32.0,4.0,1.0871710526315788
+MPAS-120km-Juqueen,Climate simulation,MPAS-A,Heinzeller2016,"Juqueen: BlueGene/Q 16c, 5-D torus",node,strong,192.0,0.0013315579227696406,,1,,32.0,6.0,0.8801597869507324
+MPAS-120km-Juropatest-full,Climate simulation,MPAS-A,Heinzeller2016,"Juropatest: Haswell 2x14c, IB FDR (28 tasks/node)",node,strong,1.0,0.0015360983102918587,,1,,1.0,1.0,1.0
+MPAS-120km-Juropatest-full,Climate simulation,MPAS-A,Heinzeller2016,"Juropatest: Haswell 2x14c, IB FDR (28 tasks/node)",node,strong,2.0,0.003003003003003003,,1,,1.0,2.0,1.954954954954955
+MPAS-120km-Juropatest-full,Climate simulation,MPAS-A,Heinzeller2016,"Juropatest: Haswell 2x14c, IB FDR (28 tasks/node)",node,strong,4.0,0.005649717514124294,,1,,1.0,4.0,3.6779661016949152
+MPAS-120km-Juropatest-full,Climate simulation,MPAS-A,Heinzeller2016,"Juropatest: Haswell 2x14c, IB FDR (28 tasks/node)",node,strong,6.0,0.007518796992481203,,1,,1.0,6.0,4.894736842105263
+MPAS-120km-Juropatest-full,Climate simulation,MPAS-A,Heinzeller2016,"Juropatest: Haswell 2x14c, IB FDR (28 tasks/node)",node,strong,8.0,0.009174311926605505,,1,,1.0,8.0,5.972477064220183
+MPAS-120km-Juropatest-full,Climate simulation,MPAS-A,Heinzeller2016,"Juropatest: Haswell 2x14c, IB FDR (28 tasks/node)",node,strong,10.0,0.00980392156862745,,1,,1.0,10.0,6.38235294117647
+MPAS-120km-Juropatest-full,Climate simulation,MPAS-A,Heinzeller2016,"Juropatest: Haswell 2x14c, IB FDR (28 tasks/node)",node,strong,12.0,0.010869565217391304,,1,,1.0,12.0,7.076086956521739
+MPAS-120km-Juropatest-full,Climate simulation,MPAS-A,Heinzeller2016,"Juropatest: Haswell 2x14c, IB FDR (28 tasks/node)",node,strong,15.0,0.01098901098901099,,1,,1.0,15.0,7.153846153846154
+MPAS-120km-Juropatest-half,Climate simulation,MPAS-A,Heinzeller2016,"Juropatest: Haswell 2x14c, IB FDR (14 tasks/node)",node,strong,1.0,0.0008532423208191126,,1,,1.0,1.0,1.0
+MPAS-120km-Juropatest-half,Climate simulation,MPAS-A,Heinzeller2016,"Juropatest: Haswell 2x14c, IB FDR (14 tasks/node)",node,strong,2.0,0.0015923566878980893,,1,,1.0,2.0,1.8662420382165605
+MPAS-120km-Juropatest-half,Climate simulation,MPAS-A,Heinzeller2016,"Juropatest: Haswell 2x14c, IB FDR (14 tasks/node)",node,strong,4.0,0.0031545741324921135,,1,,1.0,4.0,3.6971608832807568
+MPAS-120km-Juropatest-half,Climate simulation,MPAS-A,Heinzeller2016,"Juropatest: Haswell 2x14c, IB FDR (14 tasks/node)",node,strong,6.0,0.004545454545454545,,1,,1.0,6.0,5.327272727272727
+MPAS-120km-Juropatest-half,Climate simulation,MPAS-A,Heinzeller2016,"Juropatest: Haswell 2x14c, IB FDR (14 tasks/node)",node,strong,8.0,0.005988023952095809,,1,,1.0,8.0,7.017964071856288
+MPAS-120km-Juropatest-half,Climate simulation,MPAS-A,Heinzeller2016,"Juropatest: Haswell 2x14c, IB FDR (14 tasks/node)",node,strong,10.0,0.007042253521126761,,1,,1.0,10.0,8.253521126760564
+MPAS-120km-Juropatest-half,Climate simulation,MPAS-A,Heinzeller2016,"Juropatest: Haswell 2x14c, IB FDR (14 tasks/node)",node,strong,15.0,0.010526315789473684,,1,,1.0,15.0,12.336842105263157
+MPAS-120km-Juropatest-half,Climate simulation,MPAS-A,Heinzeller2016,"Juropatest: Haswell 2x14c, IB FDR (14 tasks/node)",node,strong,20.0,0.011494252873563218,,1,,1.0,20.0,13.471264367816092
+MPAS-120km-Juropatest-half,Climate simulation,MPAS-A,Heinzeller2016,"Juropatest: Haswell 2x14c, IB FDR (14 tasks/node)",node,strong,25.0,0.011363636363636364,,1,,1.0,25.0,13.318181818181818
+MPAS-120km-Juropatest-half,Climate simulation,MPAS-A,Heinzeller2016,"Juropatest: Haswell 2x14c, IB FDR (14 tasks/node)",node,strong,30.0,0.010101010101010102,,1,,1.0,30.0,11.83838383838384
+MPAS-3km-Juqueen,Climate simulation,MPAS-A,Heinzeller2016,"Juqueen: BlueGene/Q 16c, 5-D torus",node,strong,4096.0,0.0005681818181818182,,1,,4096.0,1.0,1.0
+MPAS-3km-Juqueen,Climate simulation,MPAS-A,Heinzeller2016,"Juqueen: BlueGene/Q 16c, 5-D torus",node,strong,8192.0,0.0010416666666666667,,1,,4096.0,2.0,1.8333333333333335
+MPAS-3km-Juqueen,Climate simulation,MPAS-A,Heinzeller2016,"Juqueen: BlueGene/Q 16c, 5-D torus",node,strong,16384.0,0.0020408163265306124,,1,,4096.0,4.0,3.591836734693878
+MPAS-3km-Juqueen,Climate simulation,MPAS-A,Heinzeller2016,"Juqueen: BlueGene/Q 16c, 5-D torus",node,strong,24576.0,0.0029850746268656717,,1,,4096.0,6.0,5.253731343283582
+MPAS-3km-Juqueen,Climate simulation,MPAS-A,Heinzeller2016,"Juqueen: BlueGene/Q 16c, 5-D torus",node,strong,28672.0,0.002777777777777778,,1,,4096.0,7.0,4.888888888888889
+BERT-PyT-DGXA100-seq128,Deep learning,BERT-large (Transformer),NVIDIA-DLE,"8x A100 80GB/node (DGX A100), InfiniBand",node,strong,1.0,4553.0,,1,,1.0,1.0,1.0
+BERT-PyT-DGXA100-seq128,Deep learning,BERT-large (Transformer),NVIDIA-DLE,"8x A100 80GB/node (DGX A100), InfiniBand",node,strong,2.0,9191.0,,1,,1.0,2.0,2.0186690094443223
+BERT-PyT-DGXA100-seq128,Deep learning,BERT-large (Transformer),NVIDIA-DLE,"8x A100 80GB/node (DGX A100), InfiniBand",node,strong,4.0,18119.0,,1,,1.0,4.0,3.979573907313859
+BERT-PyT-DGXA100-seq128,Deep learning,BERT-large (Transformer),NVIDIA-DLE,"8x A100 80GB/node (DGX A100), InfiniBand",node,strong,8.0,35774.0,,1,,1.0,8.0,7.85723698660224
+BERT-PyT-DGXA100-seq128,Deep learning,BERT-large (Transformer),NVIDIA-DLE,"8x A100 80GB/node (DGX A100), InfiniBand",node,strong,16.0,70555.0,,1,,1.0,16.0,15.49637601581375
+BERT-PyT-DGXA100-seq128,Deep learning,BERT-large (Transformer),NVIDIA-DLE,"8x A100 80GB/node (DGX A100), InfiniBand",node,strong,32.0,138294.0,,1,,1.0,32.0,30.374258730507357
+BERT-PyT-DGXA100-seq512,Deep learning,BERT-large (Transformer),NVIDIA-DLE,"8x A100 80GB/node (DGX A100), InfiniBand",node,strong,1.0,1648.0,,1,,1.0,1.0,1.0
+BERT-PyT-DGXA100-seq512,Deep learning,BERT-large (Transformer),NVIDIA-DLE,"8x A100 80GB/node (DGX A100), InfiniBand",node,strong,2.0,3291.0,,1,,1.0,2.0,1.9969660194174756
+BERT-PyT-DGXA100-seq512,Deep learning,BERT-large (Transformer),NVIDIA-DLE,"8x A100 80GB/node (DGX A100), InfiniBand",node,strong,4.0,6464.0,,1,,1.0,4.0,3.9223300970873787
+BERT-PyT-DGXA100-seq512,Deep learning,BERT-large (Transformer),NVIDIA-DLE,"8x A100 80GB/node (DGX A100), InfiniBand",node,strong,8.0,13005.0,,1,,1.0,8.0,7.891383495145631
+BERT-PyT-DGXA100-seq512,Deep learning,BERT-large (Transformer),NVIDIA-DLE,"8x A100 80GB/node (DGX A100), InfiniBand",node,strong,16.0,25570.0,,1,,1.0,16.0,15.515776699029127
+BERT-PyT-DGXA100-seq512,Deep learning,BERT-large (Transformer),NVIDIA-DLE,"8x A100 80GB/node (DGX A100), InfiniBand",node,strong,32.0,49663.0,,1,,1.0,32.0,30.13531553398058
+BERT-TF1-DGX2H-V100-seq128,Deep learning,BERT-large (Transformer),NVIDIA-DLE,"16x V100 32GB/node (DGX-2H), InfiniBand",node,strong,1.0,3081.69,,1,,1.0,1.0,1.0
+BERT-TF1-DGX2H-V100-seq128,Deep learning,BERT-large (Transformer),NVIDIA-DLE,"16x V100 32GB/node (DGX-2H), InfiniBand",node,strong,4.0,13192.0,,1,,1.0,4.0,4.280768020144791
+BERT-TF1-DGX2H-V100-seq128,Deep learning,BERT-large (Transformer),NVIDIA-DLE,"16x V100 32GB/node (DGX-2H), InfiniBand",node,strong,16.0,48223.0,,1,,1.0,16.0,15.648231976610237
+BERT-TF1-DGX2H-V100-seq128,Deep learning,BERT-large (Transformer),NVIDIA-DLE,"16x V100 32GB/node (DGX-2H), InfiniBand",node,strong,32.0,86673.64,,1,,1.0,32.0,28.125359786350995
+BERT-TF1-DGX2H-V100-seq512,Deep learning,BERT-large (Transformer),NVIDIA-DLE,"16x V100 32GB/node (DGX-2H), InfiniBand",node,strong,1.0,577.79,,1,,1.0,1.0,1.0
+BERT-TF1-DGX2H-V100-seq512,Deep learning,BERT-large (Transformer),NVIDIA-DLE,"16x V100 32GB/node (DGX-2H), InfiniBand",node,strong,4.0,2284.23,,1,,1.0,4.0,3.9533913705671613
+BERT-TF1-DGX2H-V100-seq512,Deep learning,BERT-large (Transformer),NVIDIA-DLE,"16x V100 32GB/node (DGX-2H), InfiniBand",node,strong,16.0,8853.0,,1,,1.0,16.0,15.322175877048755
+BERT-TF1-DGX2H-V100-seq512,Deep learning,BERT-large (Transformer),NVIDIA-DLE,"16x V100 32GB/node (DGX-2H), InfiniBand",node,strong,32.0,17059.0,,1,,1.0,32.0,29.524567749528376
+BERT-TF1-DGXA100-seq128,Deep learning,BERT-large (Transformer),NVIDIA-DLE,"8x A100 40GB/node (DGX A100), InfiniBand",node,strong,1.0,2871.89,,1,,1.0,1.0,1.0
+BERT-TF1-DGXA100-seq128,Deep learning,BERT-large (Transformer),NVIDIA-DLE,"8x A100 40GB/node (DGX A100), InfiniBand",node,strong,4.0,11159.0,,1,,1.0,4.0,3.8855945039677704
+BERT-TF1-DGXA100-seq128,Deep learning,BERT-large (Transformer),NVIDIA-DLE,"8x A100 40GB/node (DGX A100), InfiniBand",node,strong,16.0,41144.0,,1,,1.0,16.0,14.326454007639569
+BERT-TF1-DGXA100-seq128,Deep learning,BERT-large (Transformer),NVIDIA-DLE,"8x A100 40GB/node (DGX A100), InfiniBand",node,strong,32.0,77479.87,,1,,1.0,32.0,26.978703919718374
+BERT-TF1-DGXA100-seq512,Deep learning,BERT-large (Transformer),NVIDIA-DLE,"8x A100 40GB/node (DGX A100), InfiniBand",node,strong,1.0,572.112,,1,,1.0,1.0,1.0
+BERT-TF1-DGXA100-seq512,Deep learning,BERT-large (Transformer),NVIDIA-DLE,"8x A100 40GB/node (DGX A100), InfiniBand",node,strong,4.0,2197.44,,1,,1.0,4.0,3.840926252202366
+BERT-TF1-DGXA100-seq512,Deep learning,BERT-large (Transformer),NVIDIA-DLE,"8x A100 40GB/node (DGX A100), InfiniBand",node,strong,16.0,8723.1,,1,,1.0,16.0,15.247189361523619
+BERT-TF1-DGXA100-seq512,Deep learning,BERT-large (Transformer),NVIDIA-DLE,"8x A100 40GB/node (DGX A100), InfiniBand",node,strong,32.0,16705.0,,1,,1.0,32.0,29.19882820147104
+BERT-TF2-DGX2H-V100-seq128,Deep learning,BERT-large (Transformer),NVIDIA-DLE,"16x V100 32GB/node (DGX-2H), InfiniBand",node,strong,1.0,3528.51,,1,,1.0,1.0,1.0
+BERT-TF2-DGX2H-V100-seq128,Deep learning,BERT-large (Transformer),NVIDIA-DLE,"16x V100 32GB/node (DGX-2H), InfiniBand",node,strong,4.0,13370.21,,1,,1.0,4.0,3.789194305811801
+BERT-TF2-DGX2H-V100-seq128,Deep learning,BERT-large (Transformer),NVIDIA-DLE,"16x V100 32GB/node (DGX-2H), InfiniBand",node,strong,16.0,42697.42,,1,,1.0,16.0,12.100694060665832
+BERT-TF2-DGX2H-V100-seq128,Deep learning,BERT-large (Transformer),NVIDIA-DLE,"16x V100 32GB/node (DGX-2H), InfiniBand",node,strong,32.0,84223.16,,1,,1.0,32.0,23.869327279786653
+BERT-TF2-DGX2H-V100-seq512,Deep learning,BERT-large (Transformer),NVIDIA-DLE,"16x V100 32GB/node (DGX-2H), InfiniBand",node,strong,1.0,678.35,,1,,1.0,1.0,1.0
+BERT-TF2-DGX2H-V100-seq512,Deep learning,BERT-large (Transformer),NVIDIA-DLE,"16x V100 32GB/node (DGX-2H), InfiniBand",node,strong,4.0,2678.29,,1,,1.0,4.0,3.9482420579346944
+BERT-TF2-DGX2H-V100-seq512,Deep learning,BERT-large (Transformer),NVIDIA-DLE,"16x V100 32GB/node (DGX-2H), InfiniBand",node,strong,16.0,7834.72,,1,,1.0,16.0,11.549671998231002
+BERT-TF2-DGX2H-V100-seq512,Deep learning,BERT-large (Transformer),NVIDIA-DLE,"16x V100 32GB/node (DGX-2H), InfiniBand",node,strong,32.0,18786.93,,1,,1.0,32.0,27.69503943392054
+BERT-TF2-DGXA100-seq128,Deep learning,BERT-large (Transformer),NVIDIA-DLE,"8x A100/node (DGX A100), InfiniBand",node,strong,1.0,3803.82,,1,,1.0,1.0,1.0
+BERT-TF2-DGXA100-seq128,Deep learning,BERT-large (Transformer),NVIDIA-DLE,"8x A100/node (DGX A100), InfiniBand",node,strong,2.0,7551.37,,1,,1.0,2.0,1.985206976145033
+BERT-TF2-DGXA100-seq128,Deep learning,BERT-large (Transformer),NVIDIA-DLE,"8x A100/node (DGX A100), InfiniBand",node,strong,8.0,29711.11,,1,,1.0,8.0,7.810861186912104
+BERT-TF2-DGXA100-seq128,Deep learning,BERT-large (Transformer),NVIDIA-DLE,"8x A100/node (DGX A100), InfiniBand",node,strong,32.0,110280.73,,1,,1.0,32.0,28.992100046795063
+BERT-TF2-DGXA100-seq512,Deep learning,BERT-large (Transformer),NVIDIA-DLE,"8x A100/node (DGX A100), InfiniBand",node,strong,1.0,749.73,,1,,1.0,1.0,1.0
+BERT-TF2-DGXA100-seq512,Deep learning,BERT-large (Transformer),NVIDIA-DLE,"8x A100/node (DGX A100), InfiniBand",node,strong,2.0,1491.87,,1,,1.0,2.0,1.9898763554879755
+BERT-TF2-DGXA100-seq512,Deep learning,BERT-large (Transformer),NVIDIA-DLE,"8x A100/node (DGX A100), InfiniBand",node,strong,8.0,5870.83,,1,,1.0,8.0,7.8305923465781015
+BERT-TF2-DGXA100-seq512,Deep learning,BERT-large (Transformer),NVIDIA-DLE,"8x A100/node (DGX A100), InfiniBand",node,strong,32.0,22506.23,,1,,1.0,32.0,30.019113547543782
+ResNet50-ABCI-weak,Deep learning,ResNet-50,Mikami2018,"ABCI 4x V100/node, 2x EDR IB",GPU,weak,4.0,641.25,,1,,4.0,1.0,1.0
+ResNet50-ABCI-weak,Deep learning,ResNet-50,Mikami2018,"ABCI 4x V100/node, 2x EDR IB",GPU,weak,1024.0,543.478515625,,1,,4.0,256.0,216.96764132553605
+ResNet50-ABCI-weak,Deep learning,ResNet-50,Mikami2018,"ABCI 4x V100/node, 2x EDR IB",GPU,weak,2048.0,532.88916015625,,1,,4.0,512.0,425.4803118908382
+ResNet50-ABCI-weak,Deep learning,ResNet-50,Mikami2018,"ABCI 4x V100/node, 2x EDR IB",GPU,weak,3456.0,475.07320601851853,,1,,4.0,864.0,640.0986354775829
+ResNet50-ABCI-weak,Deep learning,ResNet-50,Mikami2018,"ABCI 4x V100/node, 2x EDR IB",GPU,weak,4096.0,470.96044921875,,1,,4.0,1024.0,752.06783625731
+GROMACS-MEM-cpu,Molecular dynamics,GROMACS,Kutzner2015,"E5-2680v2 2x10c, FDR-14 IB",node,strong,1.0,26.8,,1,,1.0,1.0,1.0
+GROMACS-MEM-cpu,Molecular dynamics,GROMACS,Kutzner2015,"E5-2680v2 2x10c, FDR-14 IB",node,strong,2.0,42.0,,1,,1.0,2.0,1.5671641791044775
+GROMACS-MEM-cpu,Molecular dynamics,GROMACS,Kutzner2015,"E5-2680v2 2x10c, FDR-14 IB",node,strong,4.0,76.3,,1,,1.0,4.0,2.8470149253731343
+GROMACS-MEM-cpu,Molecular dynamics,GROMACS,Kutzner2015,"E5-2680v2 2x10c, FDR-14 IB",node,strong,8.0,122.0,,1,,1.0,8.0,4.552238805970149
+GROMACS-MEM-cpu,Molecular dynamics,GROMACS,Kutzner2015,"E5-2680v2 2x10c, FDR-14 IB",node,strong,16.0,162.0,,1,,1.0,16.0,6.044776119402985
+GROMACS-MEM-cpu,Molecular dynamics,GROMACS,Kutzner2015,"E5-2680v2 2x10c, FDR-14 IB",node,strong,32.0,209.0,,1,,1.0,32.0,7.798507462686567
+GROMACS-MEM-cpu,Molecular dynamics,GROMACS,Kutzner2015,"E5-2680v2 2x10c, FDR-14 IB",node,strong,64.0,240.0,,1,,1.0,64.0,8.955223880597014
+GROMACS-MEM-gpu_k20x,Molecular dynamics,GROMACS,Kutzner2015,"E5-2680v2 2x10c, FDR-14 IB, 2x K20X/node",node,strong,1.0,55.2,,1,,1.0,1.0,1.0
+GROMACS-MEM-gpu_k20x,Molecular dynamics,GROMACS,Kutzner2015,"E5-2680v2 2x10c, FDR-14 IB, 2x K20X/node",node,strong,2.0,74.5,,1,,1.0,2.0,1.3496376811594202
+GROMACS-MEM-gpu_k20x,Molecular dynamics,GROMACS,Kutzner2015,"E5-2680v2 2x10c, FDR-14 IB, 2x K20X/node",node,strong,4.0,118.0,,1,,1.0,4.0,2.1376811594202896
+GROMACS-MEM-gpu_k20x,Molecular dynamics,GROMACS,Kutzner2015,"E5-2680v2 2x10c, FDR-14 IB, 2x K20X/node",node,strong,8.0,163.0,,1,,1.0,8.0,2.9528985507246377
+GROMACS-MEM-gpu_k20x,Molecular dynamics,GROMACS,Kutzner2015,"E5-2680v2 2x10c, FDR-14 IB, 2x K20X/node",node,strong,16.0,226.0,,1,,1.0,16.0,4.094202898550725
+GROMACS-MEM-gpu_k20x,Molecular dynamics,GROMACS,Kutzner2015,"E5-2680v2 2x10c, FDR-14 IB, 2x K20X/node",node,strong,32.0,304.0,,1,,1.0,32.0,5.507246376811594
+GROMACS-RIB-cpu,Molecular dynamics,GROMACS,Kutzner2015,"E5-2680v2 2x10c, FDR-14 IB",node,strong,1.0,1.86,,1,,1.0,1.0,1.0
+GROMACS-RIB-cpu,Molecular dynamics,GROMACS,Kutzner2015,"E5-2680v2 2x10c, FDR-14 IB",node,strong,2.0,3.24,,1,,1.0,2.0,1.7419354838709677
+GROMACS-RIB-cpu,Molecular dynamics,GROMACS,Kutzner2015,"E5-2680v2 2x10c, FDR-14 IB",node,strong,4.0,6.12,,1,,1.0,4.0,3.290322580645161
+GROMACS-RIB-cpu,Molecular dynamics,GROMACS,Kutzner2015,"E5-2680v2 2x10c, FDR-14 IB",node,strong,8.0,12.3,,1,,1.0,8.0,6.612903225806452
+GROMACS-RIB-cpu,Molecular dynamics,GROMACS,Kutzner2015,"E5-2680v2 2x10c, FDR-14 IB",node,strong,16.0,21.8,,1,,1.0,16.0,11.720430107526882
+GROMACS-RIB-cpu,Molecular dynamics,GROMACS,Kutzner2015,"E5-2680v2 2x10c, FDR-14 IB",node,strong,32.0,39.4,,1,,1.0,32.0,21.18279569892473
+GROMACS-RIB-cpu,Molecular dynamics,GROMACS,Kutzner2015,"E5-2680v2 2x10c, FDR-14 IB",node,strong,64.0,70.7,,1,,1.0,64.0,38.01075268817204
+GROMACS-RIB-cpu,Molecular dynamics,GROMACS,Kutzner2015,"E5-2680v2 2x10c, FDR-14 IB",node,strong,128.0,128.0,,1,,1.0,128.0,68.81720430107526
+GROMACS-RIB-cpu,Molecular dynamics,GROMACS,Kutzner2015,"E5-2680v2 2x10c, FDR-14 IB",node,strong,256.0,186.0,,1,,1.0,256.0,100.0
+GROMACS-RIB-cpu,Molecular dynamics,GROMACS,Kutzner2015,"E5-2680v2 2x10c, FDR-14 IB",node,strong,512.0,208.0,,1,,1.0,512.0,111.82795698924731
+GROMACS-RIB-gpu_k20x,Molecular dynamics,GROMACS,Kutzner2015,"E5-2680v2 2x10c, FDR-14 IB, 2x K20X/node",node,strong,1.0,3.99,,1,,1.0,1.0,1.0
+GROMACS-RIB-gpu_k20x,Molecular dynamics,GROMACS,Kutzner2015,"E5-2680v2 2x10c, FDR-14 IB, 2x K20X/node",node,strong,2.0,5.01,,1,,1.0,2.0,1.2556390977443608
+GROMACS-RIB-gpu_k20x,Molecular dynamics,GROMACS,Kutzner2015,"E5-2680v2 2x10c, FDR-14 IB, 2x K20X/node",node,strong,4.0,9.53,,1,,1.0,4.0,2.388471177944862
+GROMACS-RIB-gpu_k20x,Molecular dynamics,GROMACS,Kutzner2015,"E5-2680v2 2x10c, FDR-14 IB, 2x K20X/node",node,strong,8.0,16.2,,1,,1.0,8.0,4.060150375939849
+GROMACS-RIB-gpu_k20x,Molecular dynamics,GROMACS,Kutzner2015,"E5-2680v2 2x10c, FDR-14 IB, 2x K20X/node",node,strong,16.0,27.5,,1,,1.0,16.0,6.8922305764411025
+GROMACS-RIB-gpu_k20x,Molecular dynamics,GROMACS,Kutzner2015,"E5-2680v2 2x10c, FDR-14 IB, 2x K20X/node",node,strong,32.0,49.1,,1,,1.0,32.0,12.30576441102757
+GROMACS-RIB-gpu_k20x,Molecular dynamics,GROMACS,Kutzner2015,"E5-2680v2 2x10c, FDR-14 IB, 2x K20X/node",node,strong,64.0,85.3,,1,,1.0,64.0,21.37844611528822
+GROMACS-RIB-gpu_k20x,Molecular dynamics,GROMACS,Kutzner2015,"E5-2680v2 2x10c, FDR-14 IB, 2x K20X/node",node,strong,128.0,129.7,,1,,1.0,128.0,32.506265664160395
+GROMACS-RIB-gpu_k20x,Molecular dynamics,GROMACS,Kutzner2015,"E5-2680v2 2x10c, FDR-14 IB, 2x K20X/node",node,strong,256.0,139.5,,1,,1.0,256.0,34.962406015037594
+LAMMPS-EAM-strong,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,strong,1.0,0.00024602989755315066,1.1670739059682486e-06,3,256000.0,1.0,1.0,1.0
+LAMMPS-EAM-strong,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,strong,2.0,0.0004786635713089055,2.195918275156151e-06,3,256000.0,1.0,2.0,1.9455504232183742
+LAMMPS-EAM-strong,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,strong,4.0,0.0009372276182234538,2.9981655089327795e-06,3,256000.0,1.0,4.0,3.8094053915580783
+LAMMPS-EAM-strong,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,strong,8.0,0.0018622586590371997,4.753505076425318e-06,3,256000.0,1.0,8.0,7.569237225060786
+LAMMPS-EAM-strong,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,strong,16.0,0.0036303702251555612,4.719855562345037e-05,3,256000.0,1.0,16.0,14.755809197421952
+LAMMPS-EAM-strong,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,strong,32.0,0.006433791991215729,0.00012446424352838972,3,256000.0,1.0,32.0,26.150447791922588
+LAMMPS-EAM-strong,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,strong,48.0,0.008779117406063443,0.000159168332501554,3,256000.0,1.0,48.0,35.68313238909048
+LAMMPS-EAM-strong,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,strong,64.0,0.010335390305679502,0.0002544908105772946,3,256000.0,1.0,64.0,42.008676215648606
+LAMMPS-EAM-strong,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,strong,80.0,0.011108445084290883,0.00011398527928576964,3,256000.0,1.0,80.0,45.15079343920423
+LAMMPS-EAM-strong,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,strong,96.0,0.012671086059904671,0.00011441981098867483,3,256000.0,1.0,96.0,51.502220607832
+LAMMPS-EAM-weak,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,weak,1.0,0.0020111579040516785,2.9196555876020237e-06,3,32000.0,1.0,1.0,1.0
+LAMMPS-EAM-weak,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,weak,2.0,0.001968810110233678,6.118554423430305e-06,3,64000.0,1.0,2.0,1.957887151742102
+LAMMPS-EAM-weak,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,weak,4.0,0.0019110264314065727,3.3493880417555337e-06,3,128000.0,1.0,4.0,3.8008481135302583
+LAMMPS-EAM-weak,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,weak,8.0,0.001847586436252109,1.681193222315048e-06,3,256000.0,1.0,8.0,7.3493441068151295
+LAMMPS-EAM-weak,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,weak,16.0,0.0018127162041722685,4.865673208131033e-06,3,512000.0,1.0,16.0,14.421274037372168
+LAMMPS-EAM-weak,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,weak,32.0,0.0016433187589218513,2.4424766700821997e-05,3,1024000.0,1.0,32.0,26.14722602315765
+LAMMPS-EAM-weak,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,weak,64.0,0.0015608838348626524,4.386030611945067e-06,3,2048000.0,1.0,64.0,49.67116964309871
+LAMMPS-EAM-weak,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,weak,96.0,0.0014707417980406778,8.531432580044017e-06,3,3072000.0,1.0,96.0,70.20394188216711
+LAMMPS-LJ-strong,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,strong,1.0,0.0006888364862910058,9.856368112498767e-06,3,256000.0,1.0,1.0,1.0
+LAMMPS-LJ-strong,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,strong,2.0,0.0013144381390360086,7.073849956553373e-06,3,256000.0,1.0,2.0,1.9082005166618181
+LAMMPS-LJ-strong,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,strong,4.0,0.0026530336112828216,2.157806808205845e-05,3,256000.0,1.0,4.0,3.851470797616869
+LAMMPS-LJ-strong,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,strong,8.0,0.005190122850207864,1.8096470384671563e-05,3,256000.0,1.0,8.0,7.534622444513262
+LAMMPS-LJ-strong,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,strong,16.0,0.009888653758677295,3.668180616653653e-05,3,256000.0,1.0,16.0,14.3555893967262
+LAMMPS-LJ-strong,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,strong,32.0,0.017001318735623258,0.0004165092201105929,3,256000.0,1.0,32.0,24.68121110594145
+LAMMPS-LJ-strong,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,strong,48.0,0.02184843594329894,0.00043359468131630696,3,256000.0,1.0,48.0,31.71788425572575
+LAMMPS-LJ-strong,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,strong,64.0,0.02495686621622296,0.0003249523377091312,3,256000.0,1.0,64.0,36.230465012969255
+LAMMPS-LJ-strong,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,strong,80.0,0.0257907220456513,0.0005179698994046865,3,256000.0,1.0,80.0,37.4409929771864
+LAMMPS-LJ-strong,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,strong,96.0,0.028511039474484523,0.0005524563203157031,3,256000.0,1.0,96.0,41.39014126269692
+LAMMPS-LJ-weak,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,weak,1.0,0.005700712589073635,4.262378094129218e-06,3,32000.0,1.0,1.0,1.0
+LAMMPS-LJ-weak,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,weak,2.0,0.005518601365669885,3.014126329248951e-05,3,64000.0,1.0,2.0,1.936109312455851
+LAMMPS-LJ-weak,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,weak,4.0,0.005374360003296274,5.08067819128866e-05,3,128000.0,1.0,4.0,3.771009268979552
+LAMMPS-LJ-weak,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,weak,8.0,0.005145259243887004,4.6694238322585005e-05,3,256000.0,1.0,8.0,7.220513805588094
+LAMMPS-LJ-weak,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,weak,16.0,0.004910457801980878,3.1152913910917826e-05,3,512000.0,1.0,16.0,13.782018230892998
+LAMMPS-LJ-weak,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,weak,32.0,0.0043721134942368255,2.3555281464156616e-05,3,1024000.0,1.0,32.0,24.542130414316045
+LAMMPS-LJ-weak,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,weak,64.0,0.004025727079858348,4.2633131960143553e-05,3,2048000.0,1.0,64.0,45.19549601654305
+LAMMPS-LJ-weak,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,weak,96.0,0.003926948289944918,3.148793983004877e-05,3,3072000.0,1.0,96.0,66.12980920267242
+LAMMPS-RHODO-strong,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,strong,1.0,0.0003996153036676692,8.58554671283526e-07,3,32000.0,1.0,1.0,1.0
+LAMMPS-RHODO-strong,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,strong,2.0,0.000766969193404065,2.81839580611739e-05,3,32000.0,1.0,2.0,1.9192688227022883
+LAMMPS-RHODO-strong,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,strong,4.0,0.0014764033829322847,7.664857299134748e-06,3,32000.0,1.0,4.0,3.6945616681389692
+LAMMPS-RHODO-strong,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,strong,8.0,0.0029124008084824645,2.197041766750032e-05,3,32000.0,1.0,8.0,7.288011199151909
+LAMMPS-RHODO-strong,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,strong,16.0,0.0053643080400248904,1.4717417917960729e-05,3,32000.0,1.0,16.0,13.423680201411887
+LAMMPS-RHODO-strong,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,strong,32.0,0.008650843313042299,4.109369509832267e-05,3,32000.0,1.0,32.0,21.647927978845804
+LAMMPS-RHODO-strong,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,strong,48.0,0.00819927518407373,0.0001673064907785979,3,32000.0,1.0,48.0,20.51792088246066
+LAMMPS-RHODO-strong,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,strong,64.0,0.008266603473075673,2.2725054929567337e-05,3,32000.0,1.0,64.0,20.68640364171439
+LAMMPS-RHODO-strong,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,strong,80.0,0.008058818630914165,9.742775387897552e-05,3,32000.0,1.0,80.0,20.166441467457147
+LAMMPS-RHODO-strong,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,strong,96.0,0.008432651225545313,0.00011527587384294265,3,32000.0,1.0,96.0,21.10192264447943
+LAMMPS-RHODO-weak,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,weak,1.0,0.00039730626353324465,6.226752341121944e-06,3,32000.0,1.0,1.0,1.0
+LAMMPS-RHODO-weak,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,weak,2.0,0.0003902235981217238,5.29210881926771e-07,3,64000.0,1.0,2.0,1.9643465705849452
+LAMMPS-RHODO-weak,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,weak,4.0,0.00037014599791977947,8.475223045129555e-07,3,128000.0,1.0,4.0,3.7265558778567556
+LAMMPS-RHODO-weak,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,weak,8.0,0.00034841667847412074,1.020636578992562e-06,3,256000.0,1.0,8.0,7.0155788710835045
+LAMMPS-RHODO-weak,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,weak,16.0,0.00033234037414879325,2.8201328523547286e-06,3,512000.0,1.0,16.0,13.383745675420881
+LAMMPS-RHODO-weak,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,weak,32.0,0.00029053776603574775,2.1072209198822823e-06,3,1024000.0,1.0,32.0,23.400608967157606
+LAMMPS-RHODO-weak,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,weak,64.0,0.00018987918620312513,2.9610144100477674e-05,3,2048000.0,1.0,64.0,30.58665073369317
+LAMMPS-RHODO-weak,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,weak,96.0,0.00016362853921712473,4.4307980909840995e-06,3,3072000.0,1.0,96.0,39.53710577112404
+LAMMPS-SPCE-strong,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,strong,1.0,0.00046367349966847343,2.7387464750281006e-06,3,36000.0,1.0,1.0,1.0
+LAMMPS-SPCE-strong,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,strong,2.0,0.0008866191438805546,1.0321443659615839e-05,3,36000.0,1.0,2.0,1.9121626414157533
+LAMMPS-SPCE-strong,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,strong,4.0,0.0016958398222759869,2.9979599832876432e-05,3,36000.0,1.0,4.0,3.6574007863043985
+LAMMPS-SPCE-strong,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,strong,8.0,0.003290159134030116,2.011788963004555e-05,3,36000.0,1.0,8.0,7.0958533027714115
+LAMMPS-SPCE-strong,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,strong,16.0,0.006004058743710748,2.848540220636261e-05,3,36000.0,1.0,16.0,12.948893451973534
+LAMMPS-SPCE-strong,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,strong,32.0,0.009379572541614038,6.535320794207713e-05,3,36000.0,1.0,32.0,20.22883030477358
+LAMMPS-SPCE-strong,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,strong,48.0,0.00852682111581981,9.859197160754414e-06,3,36000.0,1.0,48.0,18.38970983227743
+LAMMPS-SPCE-strong,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,strong,64.0,0.009446646912678346,0.00012382657405671672,3,36000.0,1.0,64.0,20.373488930104262
+LAMMPS-SPCE-strong,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,strong,80.0,0.009570629651724788,0.00010299605130011475,3,36000.0,1.0,80.0,20.640881263578333
+LAMMPS-SPCE-strong,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,strong,96.0,0.009870875783583023,0.0001827863680588717,3,36000.0,1.0,96.0,21.28841909369567
+LAMMPS-SPCE-weak,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,weak,1.0,0.003803746944323288,5.771936592561026e-06,3,4500.0,1.0,1.0,1.0
+LAMMPS-SPCE-weak,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,weak,2.0,0.0036098693828928285,1.4923407789026204e-05,3,9000.0,1.0,2.0,1.8980596952066948
+LAMMPS-SPCE-weak,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,weak,4.0,0.0034750336209502827,7.631828032287233e-06,3,18000.0,1.0,4.0,3.654326822278672
+LAMMPS-SPCE-weak,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,weak,8.0,0.003284136961647849,1.906693138747892e-05,3,36000.0,1.0,8.0,6.907161826943498
+LAMMPS-SPCE-weak,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,weak,16.0,0.002942890271393341,1.1913326237467174e-05,3,72000.0,1.0,16.0,12.378910855929826
+LAMMPS-SPCE-weak,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,weak,32.0,0.0022684224256240997,7.82382865285589e-06,3,144000.0,1.0,32.0,19.08368739626693
+LAMMPS-SPCE-weak,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,weak,64.0,0.0013324379350409857,9.932285281051044e-05,3,288000.0,1.0,64.0,22.418954018455153
+LAMMPS-SPCE-weak,Molecular dynamics,LAMMPS,FABRIC2026,"FABRIC/TACC 32+4x16-core CPU nodes, Ethernet",core,weak,96.0,0.001151968887624283,0.00012144025191296609,3,432000.0,1.0,96.0,29.07370412139909

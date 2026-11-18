@@ -1,0 +1,7 @@
+# Heinzeller et al. 2016, Table 3: MPAS-A 3 km global mesh (65,536,002 cells) on Juqueen, MPI only, 18 s time step; integration time for 1 h model time (no output).
+nodes,tasks,integration_s,efficiency_reported_pct
+4096,65536,1760,100.0
+8192,131072,960,91.2
+16384,262144,490,90.1
+24576,393216,335,87.7
+28672,458752,360,69.5

@@ -1,0 +1,7 @@
+# Mikami et al. 2018, "Massively Distributed SGD: ImageNet/ResNet-50 Training in a Flash", arXiv:1811.05233, Table 6. ABCI (4x V100 per node, NVLink2, 2x IB EDR per node); 2D-torus all-reduce; 32 images per worker (per-GPU batch fixed).
+gpus,images_per_s,efficiency_reported_pct
+4,2565,
+1024,556522,84.75
+2048,1091357,83.10
+3456,1641853,74.08
+4096,1929054,73.44

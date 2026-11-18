@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this code or dataset, please cite it as below."
+title: "S-HAG: Scaled Heterogeneous Amdahl-Gustafson Model - Code and Data"
+authors:
+  - family-names: Hassan
+    given-names: Dalya Awad Mohammad
+    affiliation: "Islamic University of Gaza"
+  - family-names: Abu Zanouna
+    given-names: Khalil Ibrahim
+    affiliation: "Islamic University of Gaza"
+version: 1.0.0
+date-released: 2026-11-18
+license: MIT
+repository-code: "https://github.com/<USER>/shag-speedup-model"
