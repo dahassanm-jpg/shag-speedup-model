@@ -8,7 +8,7 @@ The core of the repository is one executable notebook, `SHAG_complete.ipynb`. It
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dahassanm-jpg/shag-speedup-model/blob/main/SHAG_complete.ipynb)
 
-**DOI:** `<ZENODO-DOI>`
+**DOI:** `10.5281/zenodo.24346617`
 
 ---
 
@@ -137,7 +137,7 @@ If you use this code or dataset, please cite the paper above and this archive:
   author = {Hassan, Dalya Awad Mohammad and Abu Zanouna, Khalil Ibrahim},
   title  = {S-HAG: Scaled Heterogeneous Amdahl--Gustafson Model -- Code and Data},
   year   = {2026},
-  doi    = {<ZENODO-DOI>},
+  doi    = {10.5281/zenodo.24346617},
   url    = {https://github.com/dahassanm-jpg/shag-speedup-model}
 }
 ```
